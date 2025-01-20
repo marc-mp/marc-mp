@@ -1,8 +1,9 @@
-# 👋 Hey there, I'm Marc!  
+# Hi👋, I'm Marc!  
 
 I'm a **Frontend Developer** specialized in **React**, passionate about web development and always eager to learn. 🚀  
 
 In **2024**, I discovered the world of programming through a bootcamp at **IT Academy Barcelona Activa**, and since then, I haven’t stopped exploring and diving deeper into this amazing tech universe.  
+  
 
 ## 💡 A bit about me  
 Before transitioning into web development, I worked in **Administration and Logistics Management**, where I developed key skills such as:  
@@ -50,7 +51,22 @@ I love building intuitive interfaces, writing clean code, and continuously learn
 </p>
 
 ---
+## 📫 Connect with me  
+
+
+<p>
+  <a href="https://www.linkedin.com/in/marcmorell/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+
+  <a href="markus.mp11@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
  
+ ---
 
 Feel free to check out my projects and connect with me! 🚀✨
 
